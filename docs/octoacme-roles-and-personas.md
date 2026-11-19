@@ -75,6 +75,58 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA Engineers
+
+### Role Summary
+QA Engineers make sure what we ship meets the agreed quality bar and acceptance criteria.
+
+### Responsibilities
+- Define the test strategy and test cases for each increment
+- Validate acceptance criteria and the Definition of Done with Product Managers
+- Pair with Developers on testability and automated tests
+- Report defects with clear steps and track them to closure
+
+### Interaction with existing roles
+- Works with Product Managers to clarify acceptance criteria
+- Works with Developers during build and review to catch issues early
+- Gives Project Managers a clear quality status for release decisions
+
+---
+
+## Release Managers
+
+### Role Summary
+Release Managers coordinate getting changes safely into production.
+
+### Responsibilities
+- Run release readiness checks and the release checklist
+- Plan deployment windows and rollback steps
+- Verify releases after deployment and announce them
+
+### Interaction with existing roles
+- Takes the go or no go input from Project Managers and QA Engineers
+- Coordinates deployment timing with Developers
+- Shares release notes with Product Managers and Stakeholders
+
+---
+
+## Stakeholders and Sponsors
+
+### Role Summary
+Stakeholders and Sponsors provide direction, approvals and resources for a project.
+
+### Responsibilities
+- Approve the project charter and major scope changes
+- Give timely feedback on demos and priorities
+- Help remove blockers that need leadership support
+
+### Interaction with existing roles
+- Receives status updates and risk escalations from Project Managers
+- Aligns on outcomes and priorities with Product Managers
+- Joins reviews and retrospectives when their input is needed
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
